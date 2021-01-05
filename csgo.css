@@ -1,0 +1,32 @@
+/* navbar */
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(255,255,255,0.2);
+}
+
+li {
+  float: left;
+  font-size: 50px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 24px 26px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgba(255,255,255,0.5);
+}
+
+.csgologo {
+}
+body {
+ margin: 0px;
+ font-family: 'Ranga', cursive;
+}
